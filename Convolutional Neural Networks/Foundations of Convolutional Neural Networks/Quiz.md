@@ -21,10 +21,15 @@ Question 4
 ![Question 4](Question4.png)
 
 floor(((n + 2*p - f)/2) + 1)
+
 floor(((63 + 2*0 - 7)/2) + 1)
+
 floor(((56)/2) + 1)
+
 floor(29)
+
 29
+
 and thus the output volume is 29 * 29 * 16
 
 
